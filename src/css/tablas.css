@@ -12,10 +12,12 @@ body{
 
 .contenedor{
     width: 100%;
+   
 }        
 
 footer{
     position: absolute;
     bottom: 0;
     width: 100%;
+    margin-top: 50px;
 }
