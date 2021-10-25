@@ -1,0 +1,42 @@
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+body{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.cc{
+    margin-right:100px;
+    color: white;
+    overflow: hidden;
+    padding: 1em;
+    margin-left: 170px;
+    border-left: 1px solid ;
+    
+    
+}
+.contenedor{
+    width: 100%;
+    
+}
+.menu{
+    float: left;
+}
+
+.fz{
+    text-align: left;
+    font-size: 30px;
+}
+
+.arbol{
+    
+    margin-top:50px;
+    width:700px;
+}
+
+
